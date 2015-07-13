@@ -1,0 +1,19 @@
+{
+  "name": "@camibra/npm-tut",
+  "version": "1.0.0",
+  "description": "The completion of the 'how-to-npm' tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CAMibra/npm-tut.git"
+  },
+  "author": "camibra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CAMibra/npm-tut/issues"
+  },
+  "homepage": "https://github.com/CAMibra/npm-tut#readme"
+}
